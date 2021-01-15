@@ -1,0 +1,14 @@
+.vs/
+*.bin
+*.txt
+*.cert
+*.key
+*.png
+
+# 3rd-party library source files
+
+
+# settings
+package-lock.json
+package.json
+.*
