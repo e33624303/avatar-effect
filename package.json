@@ -20,6 +20,7 @@
     "prettier": "^2.1.2"
   },
   "scripts": {
+    "start": "node main.js",
     "prettier-all": "prettier --write .",
     "lint": "eslint . --ext .js"
   },
