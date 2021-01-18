@@ -1,29 +1,13 @@
-# README
+# Avatar Effect
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is an easy avatar-effect demo built on @tensorflow-models/face-landmark-detection
 
-### What is this repository for?
+Concept:
 
-- Quick summary
-- Version
-- [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Build a facemesh geometry with face-landmark-detection model's result, map the texture into a single mask.
 
-### How do I get set up?
 
-- Summary of set up
-- Configuration
-- Dependencies
-- Database configuration
-- How to run tests
-- Deployment instructions
 
-### Contribution guidelines
+Demo:
 
-- Writing tests
-- Code review
-- Other guidelines
-
-### Who do I talk to?
-
-- Repo owner or admin
-- Other community or team contact
+<img width="765" alt="Screen Shot 2021-01-18 at 4 40 33 PM" src="https://user-images.githubusercontent.com/12776044/104968646-0c449400-59ac-11eb-9bf3-c78c6ae8f075.png">
